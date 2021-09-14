@@ -1,0 +1,3639 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{smallWaist}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=AS}{%
+         family={Akhshabi},
+         familyi={A\bibinitperiod},
+         given={Saamer},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DC}{%
+         family={Dovrolis},
+         familyi={D\bibinitperiod},
+         given={Constantine},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \strng{namehash}{ASDC1}
+    \strng{fullhash}{ASDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{Proceedings of the ACM SIGCOMM 2011 Conference}
+    \field{pages}{206\bibrangedash 217}
+    \field{title}{The Evolution of Layered Protocol Stacks Leads to an
+  Hourglass-Shaped Architecture}
+    \verb{url}
+    \verb https://doi.org/10.1145/2018436.2018460
+    \endverb
+    \list{location}{1}{%
+      {Toronto, Ontario, Canada}%
+    }
+    \field{month}{08}
+    \field{year}{2011}
+  \endentry
+
+  \entry{routingSurvey}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AHP}{%
+         family={Alahari},
+         familyi={A\bibinitperiod},
+         given={Hanumat\bibnamedelima Prasad},
+         giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=YSB}{%
+         family={Yalavarthi},
+         familyi={Y\bibinitperiod},
+         given={Suresh\bibnamedelima Babu},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AHPYSB1}
+    \strng{fullhash}{AHPYSB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{18\bibrangedash 22}
+    \field{title}{A Survey on Network Routing Protocols in Internet of Things
+  (IOT)}
+    \verb{url}
+    \verb https://doi.org/10.5120/ijca2017912973
+    \endverb
+    \field{volume}{160}
+    \field{journaltitle}{International Journal of Computer Applications}
+    \field{month}{02}
+    \field{year}{2017}
+  \endentry
+
+  \entry{CityBench}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=AMI}{%
+         family={Ali},
+         familyi={A\bibinitperiod},
+         given={Muhammad\bibnamedelima Intizar},
+         giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Feng},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mileo},
+         familyi={M\bibinitperiod},
+         given={Alessandra},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{AMIGFMA1}
+    \strng{fullhash}{AMIGFMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{The Semantic Web - ISWC 2015}
+    \field{pages}{374\bibrangedash 389}
+    \field{title}{CityBench: A Configurable Benchmark to Evaluate RSP Engines
+  Using Smart City Datasets}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-319-25010-6_25
+    \endverb
+    \list{location}{1}{%
+      {Bethlehem, PA, USA}%
+    }
+    \field{month}{10}
+    \field{year}{2015}
+  \endentry
+
+  \entry{DissSimulation}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=AAA}{%
+         family={Alrowaie},
+         familyi={A\bibinitperiod},
+         given={Ahmed\bibnamedelima Ali},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Naval Postgraduate School}%
+    }
+    \strng{namehash}{AAA1}
+    \strng{fullhash}{AAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{The Effect of Time-Advance Mechanism in Modeling And
+  Simulation}
+    \list{location}{1}{%
+      {Monterey, CA, USA}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2011}
+  \endentry
+
+  \entry{simulator_osmosis}{article}{}
+    \name{author}{11}{}{%
+      {{hash=AK}{%
+         family={Alwasel},
+         familyi={A\bibinitperiod},
+         given={Khaled},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=JDN}{%
+         family={Jha},
+         familyi={J\bibinitperiod},
+         given={Devki\bibnamedelima Nandan},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Habeeb},
+         familyi={H\bibinitperiod},
+         given={Fawzy},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DU}{%
+         family={Demirbaga},
+         familyi={D\bibinitperiod},
+         given={Umit},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=RO}{%
+         family={Rana},
+         familyi={R\bibinitperiod},
+         given={Omer},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={Thar},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dustdar},
+         familyi={D\bibinitperiod},
+         given={Scharam},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Villari},
+         familyi={V\bibinitperiod},
+         given={Massimo},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JP}{%
+         family={James},
+         familyi={J\bibinitperiod},
+         given={Philip},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Solaiman},
+         familyi={S\bibinitperiod},
+         given={Ellis},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Ranjan},
+         familyi={R\bibinitperiod},
+         given={Rajiv},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AK+1}
+    \strng{fullhash}{AKJDNHFDUROBTDSVMJPSERR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{issn}{1383-7621}
+    \field{pages}{101956}
+    \field{title}{IoTSim-Osmosis: A framework for modeling and simulating IoT
+  applications over an edge-cloud continuum}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.sysarc.2020.101956
+    \endverb
+    \field{volume}{116}
+    \field{journaltitle}{Journal of Systems Architecture}
+    \field{year}{2021}
+  \endentry
+
+  \entry{AnalyzeQualities}{article}{}
+    \name{author}{4}{}{%
+      {{hash=AM}{%
+         family={Ashouri},
+         familyi={A\bibinitperiod},
+         given={Majid},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Lorig},
+         familyi={L\bibinitperiod},
+         given={Fabian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Davidsson},
+         familyi={D\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Spalazzese},
+         familyi={S\bibinitperiod},
+         given={Romina},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AM+1}
+    \strng{fullhash}{AMLFDPSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{11}
+    \field{title}{Edge Computing Simulators for IoT System Design: An Analysis
+  of Qualities and Metrics}
+    \verb{url}
+    \verb https://doi.org/10.3390/fi11110235
+    \endverb
+    \field{volume}{11}
+    \field{journaltitle}{Future Internet}
+    \field{month}{11}
+    \field{year}{2019}
+  \endentry
+
+  \entry{WSNDatabases}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BA}{%
+         family={Belfkih},
+         familyi={B\bibinitperiod},
+         given={Abderrahmen},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DC}{%
+         family={Duvallet},
+         familyi={D\bibinitperiod},
+         given={Claude},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Sadeg},
+         familyi={S\bibinitperiod},
+         given={Bruno},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BADCSB1}
+    \strng{fullhash}{BADCSB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{4921\bibrangedash 4946}
+    \field{title}{A survey on wireless sensor network databases}
+    \verb{url}
+    \verb https://doi.org/10.1007/s11276-019-02070-y
+    \endverb
+    \field{volume}{25}
+    \field{journaltitle}{Wireless Networks}
+    \field{month}{11}
+    \field{year}{2019}
+  \endentry
+
+  \entry{SWPaper}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BLT}{%
+         family={Berners-Lee},
+         familyi={B\bibinithyphendelim L\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hendler},
+         familyi={H\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LO}{%
+         family={Lassila},
+         familyi={L\bibinitperiod},
+         given={Ora},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLTHJLO1}
+    \strng{fullhash}{BLTHJLO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{5}
+    \field{pages}{34\bibrangedash 43}
+    \field{title}{The Semantic Web}
+    \verb{url}
+    \verb http://www.jstor.org/stable/26059207
+    \endverb
+    \field{volume}{284}
+    \field{journaltitle}{Scientific American}
+    \field{year}{2001}
+    \field{urlday}{04}
+    \field{urlmonth}{06}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{DistributedDBS}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BA}{%
+         family={Bonifati},
+         familyi={B\bibinitperiod},
+         given={Angela},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CPK}{%
+         family={Chrysanthis},
+         familyi={C\bibinitperiod},
+         given={Panos\bibnamedelima K.},
+         giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=OAM}{%
+         family={Ouksel},
+         familyi={O\bibinitperiod},
+         given={Aris\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SKU}{%
+         family={Sattler},
+         familyi={S\bibinitperiod},
+         given={Kai-Uwe},
+         giveni={K\bibinithyphendelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA+1}
+    \strng{fullhash}{BACPKOAMSKU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{5\bibrangedash 11}
+    \field{title}{Distributed Databases and Peer-to-Peer Databases: Past and
+  Present}
+    \verb{url}
+    \verb https://doi.org/10.1145/1374780.1374781
+    \endverb
+    \field{volume}{37}
+    \field{journaltitle}{ACM SIGMOD Record}
+    \field{month}{03}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Cougar}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=BP}{%
+         family={Bonnet},
+         familyi={B\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gehrke},
+         familyi={G\bibinitperiod},
+         given={Johannes},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Seshadri},
+         familyi={S\bibinitperiod},
+         given={Praveen},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{BPGJSP1}
+    \strng{fullhash}{BPGJSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{International Conference on Mobile Data Management (MDM
+  2001)}
+    \field{pages}{3\bibrangedash 14}
+    \field{series}{Lecture Notes in Computer Science (LNCS)}
+    \field{title}{Towards Sensor Database Systems}
+    \verb{url}
+    \verb https://doi.org/10.1007/3-540-44498-X_1
+    \endverb
+    \field{volume}{1987}
+    \list{location}{1}{%
+      {Hong Kong, China}%
+    }
+    \field{year}{2001}
+  \endentry
+
+  \entry{rfc7228}{report}{}
+    \name{author}{3}{}{%
+      {{hash=BC}{%
+         family={Bormann},
+         familyi={B\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=EM}{%
+         family={Ersue},
+         familyi={E\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Keranen},
+         familyi={K\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {RFC Editor}%
+    }
+    \strng{namehash}{BCEMKA1}
+    \strng{fullhash}{BCEMKA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{howpublished}{Internet Requests for Comments}
+    \field{number}{7228}
+    \field{title}{Terminology for Constrained-Node Networks}
+    \verb{url}
+    \verb https://tools.ietf.org/html/rfc7228
+    \endverb
+    \list{institution}{1}{%
+      {RFC Editor}%
+    }
+    \field{type}{RFC}
+    \field{month}{05}
+    \field{year}{2014}
+  \endentry
+
+  \entry{SimAccuracy}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=BA}{%
+         family={{Buss}},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={{Al Rowaei}},
+         familyi={A\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{BAAA1}
+    \strng{fullhash}{BAAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{2010 Winter Simulation Conference (WSC)}
+    \field{pages}{1468\bibrangedash 1477}
+    \field{title}{A comparison of the accuracy of discrete event and discrete
+  time}
+    \verb{url}
+    \verb https://doi.org/10.1109/WSC.2010.5679045
+    \endverb
+    \list{location}{1}{%
+      {Baltimore, MD, USA}%
+    }
+    \field{month}{12}
+    \field{year}{2010}
+  \endentry
+
+  \entry{simulator_recap}{inproceedings}{}
+    \name{author}{7}{}{%
+      {{hash=BJ}{%
+         family={Byrne},
+         familyi={B\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Svorobej},
+         familyi={S\bibinitperiod},
+         given={Sergej},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gourinovitch},
+         familyi={G\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EDM}{%
+         family={Elango},
+         familyi={E\bibinitperiod},
+         given={Divyaa\bibnamedelima Manimaran},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Liston},
+         familyi={L\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BPJ}{%
+         family={Byrne},
+         familyi={B\bibinitperiod},
+         given={P\bibnamedelima J},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lynn},
+         familyi={L\bibinitperiod},
+         given={Theo},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{BJ+1}
+    \strng{fullhash}{BJSSGAEDMLPBPJLT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{2017 Winter Simulation Conference (WSC)}
+    \field{pages}{4568\bibrangedash 4569}
+    \field{title}{RECAP simulator: Simulation of cloud/edge/fog computing
+  scenarios}
+    \verb{url}
+    \verb https://doi.org/10.1109/WSC.2017.8248208
+    \endverb
+    \list{location}{1}{%
+      {Las Vegas, NV, USA}%
+    }
+    \field{month}{12}
+    \field{year}{2017}
+  \endentry
+
+  \entry{simulator_CloudSim}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CRN}{%
+         family={Calheiros},
+         familyi={C\bibinitperiod},
+         given={Rodrigo\bibnamedelima N.},
+         giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Ranjan},
+         familyi={R\bibinitperiod},
+         given={Rajiv},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Beloglazov},
+         familyi={B\bibinitperiod},
+         given={Anton},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DRCAF}{%
+         family={De\bibnamedelima Rose},
+         familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+         given={C\'{e}sar A.\bibnamedelima F.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Buyya},
+         familyi={B\bibinitperiod},
+         given={Rajkumar},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRN+1}
+    \strng{fullhash}{CRNRRBADRCAFBR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{23\bibrangedash 50}
+    \field{title}{CloudSim: a toolkit for modeling and simulation of cloud
+  computing environments and evaluation of resource provisioning algorithms}
+    \verb{url}
+    \verb https://doi.org/10.1002/spe.995
+    \endverb
+    \field{volume}{41}
+    \field{journaltitle}{Software: Practice and Experience}
+    \field{year}{2011}
+  \endentry
+
+  \entry{TinyTurrent}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CRS}{%
+         family={Carbajo},
+         familyi={C\bibinitperiod},
+         given={Ricardo\bibnamedelima Simon},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GCM}{%
+         family={Goldrick},
+         familyi={G\bibinitperiod},
+         given={Ciar\`{a}n\bibnamedelima Mc},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRSGCM1}
+    \strng{fullhash}{CRSGCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{242\bibrangedash 266}
+    \field{title}{Decentralised Peer-to-Peer data dissemination in Wireless
+  Sensor Networks}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.pmcj.2017.07.006
+    \endverb
+    \field{volume}{40}
+    \field{journaltitle}{Pervasive and Mobile Computing}
+    \field{month}{09}
+    \field{year}{2017}
+  \endentry
+
+  \entry{simulator_PureEdgeSim}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CM}{%
+         family={Charafeddine},
+         familyi={C\bibinitperiod},
+         given={Mechalikh},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hajer},
+         familyi={H\bibinitperiod},
+         given={Taktak},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Faouzi},
+         familyi={F\bibinitperiod},
+         given={Moussa},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CMHTFM1}
+    \strng{fullhash}{CMHTFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{43\bibrangedash 66}
+    \field{title}{PureEdgeSim: A simulation framework for performance
+  evaluation of cloud, edge and mist computing environments}
+    \verb{url}
+    \verb https://doi.org/10.2298/CSIS200301042M
+    \endverb
+    \field{volume}{18}
+    \field{journaltitle}{Computer Science and Information Systems}
+    \field{year}{2021}
+  \endentry
+
+  \entry{InternetDesign}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD1}
+    \strng{fullhash}{CD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{4}
+    \field{pages}{106\bibrangedash 114}
+    \field{title}{The Design Philosophy of the DARPA Internet Protocols}
+    \verb{url}
+    \verb https://doi.org/10.1145/52325.52336
+    \endverb
+    \field{volume}{18}
+    \field{journaltitle}{ACM SIGCOMM Computer Communication Review}
+    \field{month}{08}
+    \field{year}{1988}
+  \endentry
+
+  \entry{simulator_FogBed}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=CA}{%
+         family={Coutinho},
+         familyi={C\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Greve},
+         familyi={G\bibinitperiod},
+         given={Fabiola},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Prazeres},
+         familyi={P\bibinitperiod},
+         given={Cassio},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cardoso},
+         familyi={C\bibinitperiod},
+         given={Joao},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{CA+1}
+    \strng{fullhash}{CAGFPCCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{2018 IEEE International Conference on Communications
+  (ICC)}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{Fogbed: A Rapid-Prototyping Emulation Environment for Fog
+  Computing}
+    \verb{url}
+    \verb https://doi.org/10.1109/ICC.2018.8423003
+    \endverb
+    \list{location}{1}{%
+      {Kansas City, MO, USA}%
+    }
+    \field{month}{05}
+    \field{year}{2018}
+  \endentry
+
+  \entry{simulator_Mininet}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=DR}{%
+         family={{De Oliveira}},
+         familyi={D\bibinitperiod},
+         given={R.L.S.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SAA}{%
+         family={Shinoda},
+         familyi={S\bibinitperiod},
+         given={Ailton\bibnamedelima Akira},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SCM}{%
+         family={Schweitzer},
+         familyi={S\bibinitperiod},
+         given={Christiane\bibnamedelima Marie},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PLR}{%
+         family={Prete},
+         familyi={P\bibinitperiod},
+         given={Ligia\bibnamedelima Rodrigues},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{DR+1}
+    \strng{fullhash}{DRSAASCMPLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{2014 IEEE Colombian Conference on Communications and
+  Computing (COLCOM)}
+    \verb{doi}
+    \verb https://doi.org/10.1109/ColComCon.2014.6860404
+    \endverb
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Using Mininet for emulation and prototyping Software-Defined
+  Networks}
+    \list{location}{1}{%
+      {Bogota, Colombia}%
+    }
+    \field{month}{06}
+    \field{year}{2014}
+  \endentry
+
+  \entry{RoutingIssuesSurvey}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=DA}{%
+         family={Dhumane},
+         familyi={D\bibinitperiod},
+         given={Amol},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Prasad},
+         familyi={P\bibinitperiod},
+         given={Rajesh},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Prasad},
+         familyi={P\bibinitperiod},
+         given={Jayashree},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Newswood Limited}%
+    }
+    \strng{namehash}{DAPRPJ1}
+    \strng{fullhash}{DAPRPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{Proceedings of the International MultiConference of
+  Engineers and Computer Scientists (IMECS)}
+    \field{isbn}{978-988-19253-8-1}
+    \field{pages}{404\bibrangedash 412}
+    \field{title}{Routing Issues in Internet of Things: A Survey}
+    \list{location}{1}{%
+      {Hong Kong, China}%
+    }
+    \field{month}{03}
+    \field{year}{2016}
+  \endentry
+
+  \entry{StreamDBSSurvey}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DM}{%
+         family={{Dias de Assun\c{c}\H{a}o}},
+         familyi={D\bibinitperiod},
+         given={Marcos},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=dA}{%
+         family={{da Silva Veith}},
+         familyi={d\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Buyya},
+         familyi={B\bibinitperiod},
+         given={Rajkumar},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DMdABR1}
+    \strng{fullhash}{DMdABR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{pages}{1\bibrangedash 17}
+    \field{title}{Distributed data stream processing and edge computing: A
+  survey on resource elasticity and future directions}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.jnca.2017.12.001
+    \endverb
+    \field{volume}{103}
+    \field{journaltitle}{Journal of Network and Computer Applications}
+    \field{year}{2018}
+  \endentry
+
+  \entry{IoTEvolution}{report}{}
+    \name{author}{1}{}{%
+      {{hash=ED}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ED1}
+    \strng{fullhash}{ED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{The Internet of Things: How the Next Evolution of the
+  Internet Is Changing Everything}
+    \verb{url}
+    \verb https://www.cisco.com/c/dam/en_us/about/ac79/docs/innov/IoT_IBSG_0411
+    \verb FINAL.pdf
+    \endverb
+    \list{institution}{1}{%
+      {Cisco IBSG}%
+    }
+    \field{type}{White Paper}
+    \field{month}{04}
+    \field{year}{2011}
+    \field{urlday}{10}
+    \field{urlmonth}{03}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{SNasDB}{report}{}
+    \name{author}{6}{}{%
+      {{hash=GR}{%
+         family={Govindan},
+         familyi={G\bibinitperiod},
+         given={Ramesh},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HJM}{%
+         family={Hellerstein},
+         familyi={H\bibinitperiod},
+         given={Joseph\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Hong},
+         familyi={H\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Madden},
+         familyi={M\bibinitperiod},
+         given={Samuel},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Franklin},
+         familyi={F\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Shenker},
+         familyi={S\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GR+1}
+    \strng{fullhash}{GRHJMHWMSFMSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{02-771}
+    \field{title}{The Sensor Network as a Database}
+    \list{institution}{1}{%
+      {Computer Science Department, University of Southern California}%
+    }
+    \field{type}{techreport}
+    \field{month}{09}
+    \field{year}{2002}
+  \endentry
+
+  \entry{SWBook}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GS}{%
+         family={Groppe},
+         familyi={G\bibinitperiod},
+         given={Sven},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{GS1}
+    \strng{fullhash}{GS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{isbn}{978-3-642-19356-9}
+    \field{title}{Data Management and Query Processing in Semantic Web
+  Databases}
+    \field{year}{2011}
+  \endentry
+
+  \entry{HM3P}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=GS}{%
+         family={Groppe},
+         familyi={G\bibinitperiod},
+         given={Sven},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Groppe},
+         familyi={G\bibinitperiod},
+         given={Jinghua},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SciTePress}%
+    }
+    \strng{namehash}{GSGJ1}
+    \strng{fullhash}{GSGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{9th International Conference on Data Science, Technology
+  and Applications ({DATA})}
+    \field{pages}{177\bibrangedash 184}
+    \field{title}{Hybrid Multi-Model Multi-Platform (HM3P) Databases}
+    \verb{url}
+    \verb https://doi.org/10.5220/0009802401770184
+    \endverb
+    \list{location}{1}{%
+      {Online Streaming}%
+    }
+    \field{month}{07}
+    \field{year}{2020}
+  \endentry
+
+  \entry{StrategicRoadmap}{report}{}
+    \name{author}{2}{}{%
+      {{hash=GP}{%
+         family={Guillemin},
+         familyi={G\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=FP}{%
+         family={Friess},
+         familyi={F\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {European Commission}%
+    }
+    \strng{namehash}{GPFP1}
+    \strng{fullhash}{GPFP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Internet of Things: Strategic Research Roadmap}
+    \field{type}{techreport}
+    \field{month}{10}
+    \field{year}{2009}
+  \endentry
+
+  \entry{simulator_iFogSim}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GH}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={Harshit},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=VDA}{%
+         family={Vahid\bibnamedelima Dastjerdi},
+         familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={Amir},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GSK}{%
+         family={Ghosh},
+         familyi={G\bibinitperiod},
+         given={Soumya\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Buyya},
+         familyi={B\bibinitperiod},
+         given={Rajkumar},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GH+1}
+    \strng{fullhash}{GHVDAGSKBR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{9}
+    \field{pages}{1275\bibrangedash 1296}
+    \field{title}{iFogSim: A toolkit for modeling and simulation of resource
+  management techniques in the Internet of Things, Edge and Fog computing
+  environments}
+    \verb{url}
+    \verb https://doi.org/10.1002/spe.2509
+    \endverb
+    \field{volume}{47}
+    \field{journaltitle}{Software: Practice and Experience}
+    \field{year}{2017}
+  \endentry
+
+  \entry{ComparisonIoTPlatformArchitectures}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=GJ}{%
+         family={Guth},
+         familyi={G\bibinitperiod},
+         given={Jasmin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BU}{%
+         family={Breitenb{\"u}cher},
+         familyi={B\bibinitperiod},
+         given={Uwe},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Falkenthal},
+         familyi={F\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Leymann},
+         familyi={L\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Reinfurt},
+         familyi={R\bibinitperiod},
+         given={Lukas},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{GJ+1}
+    \strng{fullhash}{GJBUFMLFRL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{2016 Cloudification of the Internet of Things (CIoT)}
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Comparison of IoT Platform Architectures: A Field Study based
+  on a Reference Architecture}
+    \verb{url}
+    \verb https://doi.org/10.1109/CIOT.2016.7872918
+    \endverb
+    \list{location}{1}{%
+      {Paris, France}%
+    }
+    \field{month}{11}
+    \field{year}{2016}
+  \endentry
+
+  \entry{BookCisco}{book}{}
+    \name{author}{5}{}{%
+      {{hash=HD}{%
+         family={Hanes},
+         familyi={H\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Salgueiro},
+         familyi={S\bibinitperiod},
+         given={Gonzalo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Grossetete},
+         familyi={G\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Barton},
+         familyi={B\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Henry},
+         familyi={H\bibinitperiod},
+         given={Jerome},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cisco Press}%
+    }
+    \strng{namehash}{HD+1}
+    \strng{fullhash}{HDSGGPBRHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{edition}{1}
+    \field{isbn}{978-1-58714-456-1}
+    \field{title}{IoT Fundamentals: Networking Technologies, Protocols, and Use
+  Cases for the Internet of Things}
+    \field{year}{2017}
+  \endentry
+
+  \entry{AITScript}{unpublished}{}
+    \name{author}{1}{}{%
+      {{hash=HH}{%
+         family={Hellbr{\"u}ck},
+         familyi={H\bibinitperiod},
+         given={Horst},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HH1}
+    \strng{fullhash}{HH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{Unpublished university lecture notes}
+    \field{title}{Advanced Internet Technologies, Institute of Telematics,
+  University of L{\"u}beck}
+    \field{year}{2019}
+  \endentry
+
+  \entry{SWBookHitzler}{book}{}
+    \name{author}{4}{}{%
+      {{hash=HP}{%
+         family={Hitzler},
+         familyi={H\bibinitperiod},
+         given={Pascal},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kr{\"o}tzsch},
+         familyi={K\bibinitperiod},
+         given={Markus},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Rudolph},
+         familyi={R\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Sure},
+         familyi={S\bibinitperiod},
+         given={York},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{HP+1}
+    \strng{fullhash}{HPKMRSSY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{edition}{1}
+    \field{isbn}{978-3-540-33993-9}
+    \field{title}{Semantic Web: Grundlagen}
+    \field{year}{2008}
+  \endentry
+
+  \entry{EuropeanCommission}{report}{}
+    \name{author}{2}{}{%
+      {{hash=I}{%
+         family={{INFSO D.4 Networked Enterprise \& RFID INFSO G.2 Micro \&
+  Nanosystems}},
+         familyi={I\bibinitperiod},
+      }}%
+      {{hash=R}{%
+         family={{RFID Working Group of the ETP (EPOSS)}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {European Commission}%
+    }
+    \strng{namehash}{IR1}
+    \strng{fullhash}{IR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Internet of Things in 2020: Roadmap for the Future}
+    \field{type}{techreport}
+    \field{month}{05}
+    \field{year}{2008}
+  \endentry
+
+  \entry{FogCompConc}{report}{}
+    \name{author}{6}{}{%
+      {{hash=IM}{%
+         family={Iorga},
+         familyi={I\bibinitperiod},
+         given={Michaela},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FL}{%
+         family={Feldman},
+         familyi={F\bibinitperiod},
+         given={Larry},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Barton},
+         familyi={B\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MMJ}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GN}{%
+         family={Goren},
+         familyi={G\bibinitperiod},
+         given={Nedim},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Mahmoudi},
+         familyi={M\bibinitperiod},
+         given={Charif},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IM+1}
+    \strng{fullhash}{IMFLBRMMJGNMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{number}{500-325}
+    \field{title}{Fog Computing Conceptual Model}
+    \verb{url}
+    \verb https://doi.org/10.6028/NIST.SP.500-325
+    \endverb
+    \list{location}{1}{%
+      {Gaithersburg, MD, USA}%
+    }
+    \list{institution}{2}{%
+      {National Institute of Standards}%
+      {Technology, The University of Melbourne}%
+    }
+    \field{type}{techreport}
+    \field{month}{03}
+    \field{year}{2018}
+  \endentry
+
+  \entry{RPLMultiparent}{article}{}
+    \name{author}{3}{}{%
+      {{hash=IO}{%
+         family={Iova},
+         familyi={I\bibinitperiod},
+         given={Oana},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=TF}{%
+         family={Theoleyre},
+         familyi={T\bibinitperiod},
+         given={Fabrice},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Noël},
+         familyi={N\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IOTFNT1}
+    \strng{fullhash}{IOTFNT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Using Multiparent Routing in RPL to Increase the Stability
+  and the Lifetime of the Network}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.adhoc.2015.01.020
+    \endverb
+    \field{volume}{29}
+    \field{journaltitle}{Ad Hoc Networks}
+    \field{month}{02}
+    \field{year}{2015}
+  \endentry
+
+  \entry{SNQP}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JF}{%
+         family={Jabeen},
+         familyi={J\bibinitperiod},
+         given={Farhana},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nawaz},
+         familyi={N\bibinitperiod},
+         given={Sarfraz},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JFNS1}
+    \strng{fullhash}{JFNS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{pages}{1\bibrangedash 15}
+    \field{title}{In-network wireless sensor network query processors: State of
+  the art, challenges and future directions}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.inffus.2015.01.007
+    \endverb
+    \field{volume}{25}
+    \field{journaltitle}{Information Fusion}
+    \field{year}{2015}
+  \endentry
+
+  \entry{IoTSimEdge}{article}{}
+    \name{author}{12}{}{%
+      {{hash=JDN}{%
+         family={Jha},
+         familyi={J\bibinitperiod},
+         given={Devki\bibnamedelima Nandan},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Alwasel},
+         familyi={A\bibinitperiod},
+         given={Khaled},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Alshoshan},
+         familyi={A\bibinitperiod},
+         given={Areeb},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HX}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Xianghua},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=NRK}{%
+         family={Naha},
+         familyi={N\bibinitperiod},
+         given={Ranesh\bibnamedelima Kumar},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BSK}{%
+         family={Battula},
+         familyi={B\bibinitperiod},
+         given={Sudheer\bibnamedelima Kumar},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Garg},
+         familyi={G\bibinitperiod},
+         given={Saurabh},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Puthal},
+         familyi={P\bibinitperiod},
+         given={Deepak},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=JP}{%
+         family={James},
+         familyi={J\bibinitperiod},
+         given={Philip},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zomaya},
+         familyi={Z\bibinitperiod},
+         given={Albert},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dustdar},
+         familyi={D\bibinitperiod},
+         given={Schahram},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Ranjan},
+         familyi={R\bibinitperiod},
+         given={Rajiv},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JDN+1}
+    \strng{fullhash}{JDNAKAAHXNRKBSKGSPDJPZADSRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{6}
+    \field{pages}{844\bibrangedash 867}
+    \field{title}{IoTSim-Edge: A simulation framework for modeling the behavior
+  of Internet of Things and edge computing environments}
+    \verb{url}
+    \verb https://doi.org/10.1002/spe.2787
+    \endverb
+    \field{volume}{50}
+    \field{journaltitle}{Software: Practice and Experience}
+    \field{year}{2020}
+  \endentry
+
+  \entry{SimChallenges}{article}{}
+    \name{author}{5}{}{%
+      {{hash=KG}{%
+         family={Kecskemeti},
+         familyi={K\bibinitperiod},
+         given={Gabor},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Casale},
+         familyi={C\bibinitperiod},
+         given={Giuliano},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=JDN}{%
+         family={Jha},
+         familyi={J\bibinitperiod},
+         given={Devki\bibnamedelima Nandan},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lyon},
+         familyi={L\bibinitperiod},
+         given={Justin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Ranjan},
+         familyi={R\bibinitperiod},
+         given={Rajiv},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KG+1}
+    \strng{fullhash}{KGCGJDNLJRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{1}
+    \field{pages}{62\bibrangedash 69}
+    \field{title}{Modelling and Simulation Challenges in Internet of Things}
+    \verb{url}
+    \verb https://doi.org/10.1109/MCC.2017.18
+    \endverb
+    \field{volume}{4}
+    \field{journaltitle}{IEEE Cloud Computing}
+    \field{month}{03}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Kemper}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KA}{%
+         family={Kemper},
+         familyi={K\bibinitperiod},
+         given={Alfons},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Eickler},
+         familyi={E\bibinitperiod},
+         given={Andr\`{e}},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {De Gruyter}%
+    }
+    \strng{namehash}{KAEA1}
+    \strng{fullhash}{KAEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{edition}{10}
+    \field{isbn}{978-3-11-044375-2}
+    \field{title}{Datenbanksysteme: Eine Einf{\"u}hrung}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Kurose}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KJF}{%
+         family={Kurose},
+         familyi={K\bibinitperiod},
+         given={James\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=RKW}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Keith\bibnamedelima W.},
+         giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pearson}%
+    }
+    \strng{namehash}{KJFRKW1}
+    \strng{fullhash}{KJFRKW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{edition}{8}
+    \field{isbn}{9780135928523}
+    \field{title}{Computer Networking: A Top Down Approach}
+    \field{year}{2020}
+  \endentry
+
+  \entry{BuildValidModels}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=LAM}{%
+         family={{Law}},
+         familyi={L\bibinitperiod},
+         given={A.\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{LAM1}
+    \strng{fullhash}{LAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{2008 Winter Simulation Conference (WSC)}
+    \field{pages}{39\bibrangedash 47}
+    \field{title}{How to build valid and credible simulation models}
+    \verb{url}
+    \verb https://doi.org/10.1109/WSC.2008.4736054
+    \endverb
+    \list{location}{1}{%
+      {Miami, FL, USA}%
+    }
+    \field{month}{12}
+    \field{year}{2008}
+  \endentry
+
+  \entry{MIPS}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LJ}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Jongwon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Ko},
+         familyi={K\bibinitperiod},
+         given={Jaejun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CYJ}{%
+         family={Choi},
+         familyi={C\bibinitperiod},
+         given={Young-June},
+         giveni={Y\bibinithyphendelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJKJCYJ1}
+    \strng{fullhash}{LJKJCYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{11}
+    \field{title}{Dhrystone million instructions per second-based task
+  offloading from smartwatch to smartphone}
+    \verb{url}
+    \verb https://doi.org/10.1177/1550147717740073
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{International Journal of Distributed Sensor Networks}
+    \field{year}{2017}
+  \endentry
+
+  \entry{simulator_YAFS}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LI}{%
+         family={Lera},
+         familyi={L\bibinitperiod},
+         given={Isaac},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Guerrero},
+         familyi={G\bibinitperiod},
+         given={Carlos},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JC}{%
+         family={Juiz},
+         familyi={J\bibinitperiod},
+         given={Carlos},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LIGCJC1}
+    \strng{fullhash}{LIGCJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{pages}{91745\bibrangedash 91758}
+    \field{title}{YAFS: A Simulator for IoT Scenarios in Fog Computing}
+    \verb{url}
+    \verb https://doi.org/10.1109/ACCESS.2019.2927895
+    \endverb
+    \field{volume}{7}
+    \field{journaltitle}{IEEE Access}
+    \field{year}{2019}
+  \endentry
+
+  \entry{simulator_MyiFogSim}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=LMM}{%
+         family={Lopes},
+         familyi={L\bibinitperiod},
+         given={M\'{a}rcio\bibnamedelima Moraes},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HWA}{%
+         family={Higashino},
+         familyi={H\bibinitperiod},
+         given={Wilson\bibnamedelima A.},
+         giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CMA}{%
+         family={Capretz},
+         familyi={C\bibinitperiod},
+         given={Miriam\bibnamedelima A.M.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BLF}{%
+         family={Bittencourt},
+         familyi={B\bibinitperiod},
+         given={Luiz\bibnamedelima Fernando},
+         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \strng{namehash}{LMM+1}
+    \strng{fullhash}{LMMHWACMABLF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{UCC '17 Companion: Companion Proceedings of the10th
+  International Conference on Utility and Cloud Computing}
+    \field{pages}{47\bibrangedash 52}
+    \field{title}{MyiFogSim: A Simulator for Virtual Machine Migration in Fog
+  Computing}
+    \verb{url}
+    \verb https://doi.org/10.1145/3147234.3148101
+    \endverb
+    \list{location}{1}{%
+      {Austin, TX, USA}%
+    }
+    \field{month}{12}
+    \field{year}{2017}
+  \endentry
+
+  \entry{TinyDB}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MSR}{%
+         family={Madden},
+         familyi={M\bibinitperiod},
+         given={Samuel\bibnamedelima R.},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=FMJ}{%
+         family={Franklin},
+         familyi={F\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HJM}{%
+         family={Hellerstein},
+         familyi={H\bibinitperiod},
+         given={Joseph\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Hong},
+         familyi={H\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MSR+1}
+    \strng{fullhash}{MSRFMJHJMHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{122\bibrangedash 173}
+    \field{title}{TinyDB: An Acquisitional Query Processing System for Sensor
+  Networks}
+    \verb{url}
+    \verb https://doi.org/10.1145/1061318.1061322
+    \endverb
+    \field{volume}{30}
+    \field{journaltitle}{ACM Transactions on Database Systems}
+    \field{month}{03}
+    \field{year}{2005}
+  \endentry
+
+  \entry{FogCloudBook}{inbook}{}
+    \name{author}{2}{}{%
+      {{hash=MZ}{%
+         family={Mahmood},
+         familyi={M\bibinitperiod},
+         given={Zaigham},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Ramachandran},
+         familyi={R\bibinitperiod},
+         given={Muthu},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer International Publishing}%
+    }
+    \strng{namehash}{MZRM1}
+    \strng{fullhash}{MZRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Fog Computing: Concepts, Frameworks and Technologies}
+    \field{pages}{3\bibrangedash 21}
+    \field{title}{Fog Computing: Concepts, Principles and Related Paradigms}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-319-94890-4_1
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{Path2IoT}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=MP}{%
+         family={{Michalák}},
+         familyi={M\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={{Watson}},
+         familyi={W\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{MPWP1}
+    \strng{fullhash}{MPWP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{IEEE International Conference on Cloud Computing
+  Technology and Science (CloudCom)}
+    \field{pages}{25\bibrangedash 32}
+    \field{title}{PATH2iot: A Holistic, Distributed Stream Processing System}
+    \verb{url}
+    \verb https://doi.org/10.1109/CloudCom.2017.35
+    \endverb
+    \list{location}{1}{%
+      {Hong Kong, China}%
+    }
+    \field{month}{12}
+    \field{year}{2017}
+  \endentry
+
+  \entry{SemanticModels}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MR}{%
+         family={Mietz},
+         familyi={M\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Groppe},
+         familyi={G\bibinitperiod},
+         given={Sven},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RK}{%
+         family={Römer},
+         familyi={R\bibinitperiod},
+         given={Kay},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pfisterer},
+         familyi={P\bibinitperiod},
+         given={Dennis},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MR+1}
+    \strng{fullhash}{MRGSRKPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{172\bibrangedash 195}
+    \field{title}{Semantic Models for Scalable Search in the Internet of
+  Things}
+    \verb{url}
+    \verb https://doi.org/10.3390/jsan2020172
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Journal of Sensor and Actuator Networks}
+    \field{month}{03}
+    \field{year}{2013}
+  \endentry
+
+  \entry{rfc4944}{report}{}
+    \name{author}{4}{}{%
+      {{hash=MG}{%
+         family={Montenegro},
+         familyi={M\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KN}{%
+         family={Kushalnagar},
+         familyi={K\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hui},
+         familyi={H\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Culler},
+         familyi={C\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {RFC Editor}%
+    }
+    \strng{namehash}{MG+1}
+    \strng{fullhash}{MGKNHJCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{howpublished}{Internet Requests for Comments}
+    \field{number}{4944}
+    \field{title}{Transmission of IPv6 Packets over IEEE 802.15.4 Networks}
+    \verb{url}
+    \verb https://tools.ietf.org/html/rfc4944
+    \endverb
+    \list{institution}{1}{%
+      {RFC Editor}%
+    }
+    \field{type}{RFC}
+    \field{month}{10}
+    \field{year}{2007}
+  \endentry
+
+  \entry{simulator_ns3}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=n}{%
+         family={{ns-3 Consortium}},
+         familyi={n\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{n1}
+    \strng{fullhash}{n1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{howpublished}{\url{https://www.nsnam.org/}}
+    \field{note}{(visited on 06/20/2021)}
+    \field{title}{ns-3: Network Simulator}
+    \field{year}{2021}
+  \endentry
+
+  \entry{UML_Spec}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=O}{%
+         family={{Object Management Group (OMG)}},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{O1}
+    \strng{fullhash}{O1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{howpublished}{\url{https://www.omg.org/spec/UML/2.5/PDF}}
+    \field{note}{(visited on 07/15/2021)}
+    \field{title}{Unified Modeling Language 2.5}
+    \field{month}{03}
+    \field{year}{2015}
+  \endentry
+
+  \entry{RPLHybridMode}{article}{}
+    \name{author}{4}{}{%
+      {{hash=OS}{%
+         family={Oh},
+         familyi={O\bibinitperiod},
+         given={Sukho},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hwang},
+         familyi={H\bibinitperiod},
+         given={DongYeop},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Kangseok},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KKH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Ki-Hyung},
+         giveni={K\bibinithyphendelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OS+1}
+    \strng{fullhash}{OSHDKKKKH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{4}
+    \field{title}{A hybrid mode to enhance the downward route performance in
+  routing protocol for low power and lossy networks}
+    \verb{url}
+    \verb https://doi.org/10.1177/1550147718772533
+    \endverb
+    \field{volume}{14}
+    \field{journaltitle}{International Journal of Distributed Sensor Networks}
+    \field{year}{2018}
+  \endentry
+
+  \entry{VendorLockIn}{article}{}
+    \name{author}{3}{}{%
+      {{hash=OMJ}{%
+         family={Opara-Martins},
+         familyi={O\bibinithyphendelim M\bibinitperiod},
+         given={Justice},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sahandi},
+         familyi={S\bibinitperiod},
+         given={Reza},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TF}{%
+         family={Tian},
+         familyi={T\bibinitperiod},
+         given={Feng},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OMJSRTF1}
+    \strng{fullhash}{OMJSRTF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{4}
+    \field{title}{Critical analysis of vendor lock-in and its impact on cloud
+  computing migration: a business perspective}
+    \verb{url}
+    \verb https://doi.org/10.1186/s13677-016-0054-z
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{Journal of Cloud Computing}
+    \field{year}{2016}
+  \endentry
+
+  \entry{simulator_cooja}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=OF}{%
+         family={Osterlind},
+         familyi={O\bibinitperiod},
+         given={Fredrik},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dunkels},
+         familyi={D\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Eriksson},
+         familyi={E\bibinitperiod},
+         given={Joakim},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FN}{%
+         family={Finne},
+         familyi={F\bibinitperiod},
+         given={Niclas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=VT}{%
+         family={Voigt},
+         familyi={V\bibinitperiod},
+         given={Thiemo},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{OF+1}
+    \strng{fullhash}{OFDAEJFNVT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{booktitle}{Proceedings. 2006 31st IEEE Conference on Local Computer
+  Networks}
+    \field{pages}{641\bibrangedash 648}
+    \field{title}{Cross-Level Sensor Network Simulation with COOJA}
+    \verb{url}
+    \verb https://doi.org/10.1109/LCN.2006.322172
+    \endverb
+    \list{location}{1}{%
+      {Tampa, FL, USA}%
+    }
+    \field{month}{11}
+    \field{year}{2006}
+  \endentry
+
+  \entry{RPLEndToEndEstimation}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=PP}{%
+         family={Pinto},
+         familyi={P\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Pinto},
+         familyi={P\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Ricardo},
+         familyi={R\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{PPPARM1}
+    \strng{fullhash}{PPPARM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{booktitle}{2013 IFIP Wireless Days (WD)}
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{End-to-end delay estimation using RPL metrics in WSN}
+    \verb{url}
+    \verb https://doi.org/10.1109/WD.2013.6686524
+    \endverb
+    \list{location}{1}{%
+      {Valencia, Spain}%
+    }
+    \field{month}{11}
+    \field{year}{2013}
+  \endentry
+
+  \entry{FogNetSim}{article}{}
+    \name{author}{5}{}{%
+      {{hash=QT}{%
+         family={Qayyum},
+         familyi={Q\bibinitperiod},
+         given={Tariq},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MAW}{%
+         family={Malik},
+         familyi={M\bibinitperiod},
+         given={Asad\bibnamedelima Waqar},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=KKMA}{%
+         family={Khan\bibnamedelima Khattak},
+         familyi={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+         given={Muazzam\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KO}{%
+         family={Khalid},
+         familyi={K\bibinitperiod},
+         given={Osman},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=KSU}{%
+         family={Khan},
+         familyi={K\bibinitperiod},
+         given={Samee\bibnamedelima U.},
+         giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{QT+1}
+    \strng{fullhash}{QTMAWKKMAKOKSU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Q}
+    \field{sortinithash}{Q}
+    \field{pages}{63570\bibrangedash 63583}
+    \field{title}{FogNetSim++: A Toolkit for Modeling and Simulation of
+  Distributed Fog Environment}
+    \verb{url}
+    \verb https://doi.org/10.1109/ACCESS.2018.2877696
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{IEEE Access}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Rahm}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RE}{%
+         family={Rahm},
+         familyi={R\bibinitperiod},
+         given={Erhard},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Addison-Wesley}%
+    }
+    \strng{namehash}{RE1}
+    \strng{fullhash}{RE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{edition}{1}
+    \field{isbn}{3-89319-702-8}
+    \field{note}{URL: https://dbs.uni-leipzig.de/buecher/mrdbs}
+    \field{title}{Mehrrechner-Datenbanksysteme: Grundlagen der verteilten und
+  parallelen Datenbankverarbeitung}
+    \field{year}{1994}
+  \endentry
+
+  \entry{parkingJson}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RGS}{%
+         family={Ramachandran},
+         familyi={R\bibinitperiod},
+         given={Gowri\bibnamedelima Sankar},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Stout},
+         familyi={S\bibinitperiod},
+         given={Jeremy},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=EJJ}{%
+         family={Edson},
+         familyi={E\bibinitperiod},
+         given={Joyce\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KB}{%
+         family={Krishnamachari},
+         familyi={K\bibinitperiod},
+         given={Bhaskar},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {RonPub}%
+    }
+    \strng{namehash}{RGS+1}
+    \strng{fullhash}{RGSSJEJJKB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{issn}{2364-7108}
+    \field{number}{1}
+    \field{pages}{105\bibrangedash 118}
+    \field{title}{ParkingJSON: An Open Standard Format for Parking Data in
+  Smart Cities}
+    \verb{url}
+    \verb http://nbn-resolving.de/urn:nbn:de:101:1-2020080219342154738409
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{Open Journal of Internet Of Things (OJIOT)}
+    \field{year}{2020}
+    \field{urlday}{26}
+    \field{urlmonth}{07}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{BigDataSim}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RR}{%
+         family={Ranjan},
+         familyi={R\bibinitperiod},
+         given={Rajiv},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RR1}
+    \strng{fullhash}{RR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{4}
+    \field{pages}{14\bibrangedash 19}
+    \field{title}{Modeling and Simulation in Performance Optimization of Big
+  Data Processing Frameworks}
+    \verb{url}
+    \verb https://doi.org/10.1109/MCC.2014.84
+    \endverb
+    \field{volume}{1}
+    \field{journaltitle}{IEEE Cloud Computing}
+    \field{month}{11}
+    \field{year}{2014}
+  \endentry
+
+  \entry{DewComp}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RPP}{%
+         family={Ray},
+         familyi={R\bibinitperiod},
+         given={Partha\bibnamedelima Pratim},
+         giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RPP1}
+    \strng{fullhash}{RPP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{723\bibrangedash 737}
+    \field{title}{An Introduction to Dew Computing: Definition, Concept and
+  Implications}
+    \verb{url}
+    \verb https://doi.org/10.1109/ACCESS.2017.2775042
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{IEEE Access}
+    \field{month}{11}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Schiller}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Schiller},
+         familyi={S\bibinitperiod},
+         given={Jochen},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pearson}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{edition}{2}
+    \field{isbn}{978-0-321-12381-7}
+    \field{title}{Mobile Communications}
+    \field{year}{2003}
+  \endentry
+
+  \entry{rfc7252}{report}{}
+    \name{author}{3}{}{%
+      {{hash=SZ}{%
+         family={Shelby},
+         familyi={S\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Hartke},
+         familyi={H\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Bormann},
+         familyi={B\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {RFC Editor}%
+    }
+    \strng{namehash}{SZHKBC1}
+    \strng{fullhash}{SZHKBC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{howpublished}{Internet Requests for Comments}
+    \field{number}{7252}
+    \field{title}{The Constrained Application Protocol (CoAP)}
+    \verb{url}
+    \verb https://tools.ietf.org/html/rfc7252
+    \endverb
+    \list{institution}{1}{%
+      {RFC Editor}%
+    }
+    \field{type}{RFC}
+    \field{month}{06}
+    \field{year}{2014}
+  \endentry
+
+  \entry{simulator_CloudSimPlus}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=SFMC}{%
+         family={Silva\bibnamedelima Filho},
+         familyi={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={Manoel\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ORL}{%
+         family={Oliveira},
+         familyi={O\bibinitperiod},
+         given={Raysa\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MCC}{%
+         family={Monteiro},
+         familyi={M\bibinitperiod},
+         given={Claudio\bibnamedelima C.},
+         giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=IPRM}{%
+         family={In\'acio},
+         familyi={I\bibinitperiod},
+         given={Pedro R.\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+      {{hash=FMM}{%
+         family={Freire},
+         familyi={F\bibinitperiod},
+         given={M\'ario\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{SFMC+1}
+    \strng{fullhash}{SFMCORLMCCIPRMFMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{2017 IFIP/IEEE Symposium on Integrated Network and
+  Service Management (IM)}
+    \field{pages}{400\bibrangedash 406}
+    \field{title}{CloudSim Plus: A Cloud Computing Simulation Framework
+  Pursuing Software Engineering Principles for Improved Modularity,
+  Extensibility and Correctness}
+    \verb{url}
+    \verb https://doi.org/10.23919/INM.2017.7987304
+    \endverb
+    \list{location}{1}{%
+      {Lisbon, Portugal}%
+    }
+    \field{month}{05}
+    \field{year}{2017}
+  \endentry
+
+  \entry{SimJavaThesis}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=SC}{%
+         family={Simatos},
+         familyi={S\bibinitperiod},
+         given={Costas},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Edinburgh, School of Informatics}%
+    }
+    \strng{namehash}{SC1}
+    \strng{fullhash}{SC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Making SimJava Count}
+    \list{location}{1}{%
+      {Edinburgh, Scotland, UK}%
+    }
+    \field{type}{mathesis}
+    \field{year}{2002}
+  \endentry
+
+  \entry{SimJavaTutorial}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SC}{%
+         family={Simatos},
+         familyi={S\bibinitperiod},
+         given={Costas},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SC1}
+    \strng{fullhash}{SC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{howpublished}{\url{http://www.dcs.ed.ac.uk/home/simjava/tutorial/}}
+    \field{note}{(visited on 01/31/2021)}
+    \field{title}{The SimJava Tutorial}
+    \field{year}{2002}
+  \endentry
+
+  \entry{RPLApplications}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SJVV}{%
+         family={Sobral},
+         familyi={S\bibinitperiod},
+         given={José V.\bibnamedelima V.},
+         giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim
+  V\bibinitperiod},
+      }}%
+      {{hash=RJJPC}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Joel J. P.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=RRAL}{%
+         family={Rabêlo},
+         familyi={R\bibinitperiod},
+         given={Ricardo A.\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+      {{hash=AMJ}{%
+         family={Al-Muhtadi},
+         familyi={A\bibinithyphendelim M\bibinitperiod},
+         given={Jalal},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Korotaev},
+         familyi={K\bibinitperiod},
+         given={Valery},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJVV+1}
+    \strng{fullhash}{SJVVRJJPCRRALAMJKV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{9}
+    \field{title}{Routing Protocols for Low Power and Lossy Networks in
+  Internet of Things Applications}
+    \verb{url}
+    \verb https://doi.org/10.3390/s19092144
+    \endverb
+    \field{volume}{19}
+    \field{journaltitle}{Sensors}
+    \field{year}{2019}
+  \endentry
+
+  \entry{simulator_EdgeCloudSim}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SC}{%
+         family={Sonmez},
+         familyi={S\bibinitperiod},
+         given={Cagatay},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Ozgovde},
+         familyi={O\bibinitperiod},
+         given={Atay},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EC}{%
+         family={Ersoy},
+         familyi={E\bibinitperiod},
+         given={Cem},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SCOAEC1}
+    \strng{fullhash}{SCOAEC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{11}
+    \field{title}{EdgeCloudSim: An environment for performance evaluation of
+  edge computing systems}
+    \verb{url}
+    \verb https://doi.org/10.1002/ett.3493
+    \endverb
+    \field{volume}{29}
+    \field{journaltitle}{Transactions on Emerging Telecommunications
+  Technologies}
+    \field{year}{2018}
+  \endentry
+
+  \entry{BasisTest}{book}{}
+    \name{author}{3}{}{%
+      {{hash=SA}{%
+         family={Spillner},
+         familyi={S\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Linz},
+         familyi={L\bibinitperiod},
+         given={Tilo},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Schaefer},
+         familyi={S\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Rocky Nook}%
+    }
+    \strng{namehash}{SALTSH1}
+    \strng{fullhash}{SALTSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{edition}{4}
+    \field{isbn}{978-1937538422}
+    \field{title}{Software Testing Foundations: A Study Guide for the Certified
+  Tester Exam}
+    \field{year}{2014}
+  \endentry
+
+  \entry{SpezModScript}{unpublished}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={St{\"u}mpel},
+         familyi={S\bibinitperiod},
+         given={Annette},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Unpublished university lecture notes}
+    \field{title}{Specification and Modeling, Institute for Software
+  Engineering and Programming Languages, University of L{\"u}beck}
+    \field{year}{2018}
+  \endentry
+
+  \entry{SimOverview}{article}{}
+    \name{author}{9}{}{%
+      {{hash=SS}{%
+         family={Svorobej},
+         familyi={S\bibinitperiod},
+         given={Sergej},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=EPT}{%
+         family={Endo},
+         familyi={E\bibinitperiod},
+         given={Patricia\bibnamedelima Takako},
+         giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bendechache},
+         familyi={B\bibinitperiod},
+         given={Malika},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FPC}{%
+         family={Filelis-Papadopoulos},
+         familyi={F\bibinithyphendelim P\bibinitperiod},
+         given={Christos},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=GKM}{%
+         family={Giannoutakis},
+         familyi={G\bibinitperiod},
+         given={Konstantinos\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=GGA}{%
+         family={Gravvanis},
+         familyi={G\bibinitperiod},
+         given={George\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Tzovaras},
+         familyi={T\bibinitperiod},
+         given={Dimitrios},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Byrne},
+         familyi={B\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lynn},
+         familyi={L\bibinitperiod},
+         given={Theo},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SS+1}
+    \strng{fullhash}{SSEPTBMFPCGKMGGATDBJLT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{title}{Simulating Fog and Edge Computing Scenarios: An Overview and
+  Research Challenges}
+    \verb{url}
+    \verb https://doi.org/10.3390/fi11030055
+    \endverb
+    \field{volume}{11}
+    \field{journaltitle}{Future Internet}
+    \field{month}{02}
+    \field{year}{2019}
+  \endentry
+
+  \entry{WoT}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=SI}{%
+         family={Szilagyi},
+         familyi={S\bibinitperiod},
+         given={Ioan},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Wira},
+         familyi={W\bibinitperiod},
+         given={Patrice},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{SIWP1}
+    \strng{fullhash}{SIWP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{IECON 2016 - 42nd Annual Conference of the IEEE
+  Industrial Electronics Society}
+    \field{pages}{6949\bibrangedash 6954}
+    \field{title}{Ontologies and Semantic Web for the Internet of Things - a
+  survey}
+    \verb{url}
+    \verb https://doi.org/10.1109/IECON.2016.7793744
+    \endverb
+    \list{location}{1}{%
+      {Florence, Italy}%
+    }
+    \field{month}{10}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Tanenbaum}{book}{}
+    \name{author}{2}{}{%
+      {{hash=TAS}{%
+         family={Tanenbaum},
+         familyi={T\bibinitperiod},
+         given={Andrew\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wetherall},
+         familyi={W\bibinitperiod},
+         given={David\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pearson}%
+    }
+    \strng{namehash}{TASWDJ1}
+    \strng{fullhash}{TASWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{edition}{5}
+    \field{isbn}{978-0-13-255317-9}
+    \field{title}{Computer Networks}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Farming}{article}{}
+    \name{author}{9}{}{%
+      {{hash=TK}{%
+         family={{Taylor}},
+         familyi={T\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={{Griffith}},
+         familyi={G\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={{Lefort}},
+         familyi={L\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={{Gaire}},
+         familyi={G\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={{Compton}},
+         familyi={C\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WT}{%
+         family={{Wark}},
+         familyi={W\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={{Lamb}},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={{Falzon}},
+         familyi={F\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={{Trotter}},
+         familyi={T\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TK+1}
+    \strng{fullhash}{TKGCLLGRCMWTLDFGTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{6}
+    \field{pages}{12\bibrangedash 19}
+    \field{title}{Farming the Web of Things}
+    \verb{url}
+    \verb https://doi.org/10.1109/MIS.2013.102
+    \endverb
+    \field{volume}{28}
+    \field{journaltitle}{IEEE Intelligent Systems}
+    \field{month}{10}
+    \field{year}{2013}
+  \endentry
+
+  \entry{AndreasTeubler}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=TA}{%
+         family={Teubler},
+         familyi={T\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of L{\"u}beck}%
+    }
+    \strng{namehash}{TA1}
+    \strng{fullhash}{TA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Ein namenszentrischer Ansatz zur Realisierung von Diensten im
+  Internet der Dinge}
+    \verb{url}
+    \verb https://www.zhb.uni-luebeck.de/epubs/ediss2162.pdf
+    \endverb
+    \list{location}{1}{%
+      {L{\"u}beck, Germany}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2019}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{rfc6552}{report}{}
+    \name{author}{1}{}{%
+      {{hash=TP}{%
+         family={Thubert},
+         familyi={T\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {RFC Editor}%
+    }
+    \strng{namehash}{TP1}
+    \strng{fullhash}{TP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{howpublished}{Internet Requests for Comments}
+    \field{number}{6552}
+    \field{title}{Objective Function Zero for the Routing Protocol for
+  Low-Power and Lossy Networks (RPL)}
+    \verb{url}
+    \verb https://tools.ietf.org/html/rfc6552
+    \endverb
+    \list{institution}{1}{%
+      {RFC Editor}%
+    }
+    \field{type}{RFC}
+    \field{month}{03}
+    \field{year}{2012}
+  \endentry
+
+  \entry{WorldPopulation}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{United Nations}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+  \field{howpublished}{\url{https://population.un.org/wpp/Download/Standard/Population/}}
+    \field{note}{(visited on 07/19/2021)}
+    \field{title}{World Population Prospects 2019}
+    \field{year}{2019}
+  \endentry
+
+  \entry{OMNeT}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=VA}{%
+         family={Varga},
+         familyi={V\bibinitperiod},
+         given={Andr{\'a}s},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Hornig},
+         familyi={H\bibinitperiod},
+         given={Rudolf},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ICST}%
+    }
+    \strng{namehash}{VAHR1}
+    \strng{fullhash}{VAHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{booktitle}{Proceedings of the 1st International Conference on
+  Simulation Tools and techniques for Communications, Networks and Systems \&
+  workshops}
+    \field{isbn}{978-963-9799-20-2}
+    \field{title}{An overview of the OMNeT++ simulation environment}
+    \list{location}{1}{%
+      {Marseille, France}%
+    }
+    \field{month}{03}
+    \field{year}{2008}
+  \endentry
+
+  \entry{DemystifyingFog}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=VP}{%
+         family={{Varshney}},
+         familyi={V\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={{Simmhan}},
+         familyi={S\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{VPSY1}
+    \strng{fullhash}{VPSY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{booktitle}{IEEE 1st International Conference on Fog and Edge
+  Computing (ICFEC)}
+    \field{pages}{115\bibrangedash 124}
+    \field{title}{Demystifying Fog Computing: Characterizing Architectures,
+  Applications and Abstractions}
+    \verb{url}
+    \verb https://doi.org/10.1109/ICFEC.2017.20
+    \endverb
+    \list{location}{1}{%
+      {Madrid, Spain}%
+    }
+    \field{month}{05}
+    \field{year}{2017}
+  \endentry
+
+  \entry{rfc7102}{report}{}
+    \name{author}{1}{}{%
+      {{hash=VJ}{%
+         family={Vasseur},
+         familyi={V\bibinitperiod},
+         given={JP.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {RFC Editor}%
+    }
+    \strng{namehash}{VJ1}
+    \strng{fullhash}{VJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{howpublished}{Internet Requests for Comments}
+    \field{number}{7102}
+    \field{title}{Terms Used in Routing for Low-Power and Lossy Networks}
+    \verb{url}
+    \verb https://tools.ietf.org/html/rfc7102
+    \endverb
+    \list{institution}{1}{%
+      {RFC Editor}%
+    }
+    \field{type}{RFC}
+    \field{month}{01}
+    \field{year}{2014}
+  \endentry
+
+  \entry{RPLWhitepaper}{report}{}
+    \name{author}{6}{}{%
+      {{hash=VJ}{%
+         family={Vasseur},
+         familyi={V\bibinitperiod},
+         given={JP},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AN}{%
+         family={Agarwal},
+         familyi={A\bibinitperiod},
+         given={Navneet},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hui},
+         familyi={H\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SZ}{%
+         family={Shelby},
+         familyi={S\bibinitperiod},
+         given={Zach},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Bertrand},
+         familyi={B\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Chauvenet},
+         familyi={C\bibinitperiod},
+         given={Cedric},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VJ+1}
+    \strng{fullhash}{VJANHJSZBPCC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{RPL: The IP routing protocol designed for low power and lossy
+  networks}
+    \verb{url}
+    \verb http://www.cse.chalmers.se/edu/year/2016/course/DAT285B/PAPERS/rpl.pd
+    \verb f
+    \endverb
+    \list{institution}{1}{%
+      {Internet Protocol for Smart Objects (IPSO) Alliance}%
+    }
+    \field{type}{White Paper}
+    \field{month}{04}
+    \field{year}{2011}
+    \field{urlday}{19}
+    \field{urlmonth}{04}
+    \field{urlyear}{2021}
+  \endentry
+
+  \entry{DefinitionDewComp}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yingwei},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WY1}
+    \strng{fullhash}{WY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{Definition and Categorization of Dew Computing}
+    \verb{url}
+    \verb http://nbn-resolving.de/urn:nbn:de:101:1-201705194546
+    \endverb
+    \field{volume}{3}
+    \field{journaltitle}{Open Journal of Cloud Computing (OJCC)}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Warnke21Flexible}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=WB}{%
+         family={Warnke},
+         familyi={W\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RMW}{%
+         family={Rehan},
+         familyi={R\bibinitperiod},
+         given={Muhammad\bibnamedelima Waqas},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Groppe},
+         familyi={G\bibinitperiod},
+         given={Sven},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Gesellschaft f{\"u}r Informatik, Bonn}%
+    }
+    \strng{namehash}{WB+1}
+    \strng{fullhash}{WBRMWFSGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{Datenbanksysteme f{\"u}r Business, Technologie und Web
+  (BTW 2021)}
+    \field{pages}{237\bibrangedash 256}
+    \field{series}{Lecture Notes in Informatics (LNI)}
+    \field{title}{Flexible data partitioning schemes for parallel merge joins
+  in semantic web queries}
+    \verb{url}
+    \verb https://doi.org/10.18420/btw2021-12
+    \endverb
+    \field{volume}{{P-311}}
+    \list{location}{1}{%
+      {Dresden, Germany}%
+    }
+    \field{year}{2021}
+  \endentry
+
+  \entry{simulator_SatEdgeSim}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=WJ}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={Junyong},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Suzhi},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Pan},
+         familyi={P\bibinitperiod},
+         given={Siyan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Han},
+         familyi={H\bibinitperiod},
+         given={Jiarong},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YL}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{WJ+1}
+    \strng{fullhash}{WJCSPSHJYLZL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{2020 12th International Conference on Communication
+  Software and Networks (ICCSN)}
+    \field{pages}{307\bibrangedash 313}
+    \field{title}{SatEdgeSim: A Toolkit for Modeling and Simulation of
+  Performance Evaluation in Satellite Edge Computing Environments}
+    \verb{url}
+    \verb https://doi.org/10.1109/ICCSN49894.2020.9139057
+    \endverb
+    \list{location}{1}{%
+      {Chongqing, China}%
+    }
+    \field{month}{06}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Weisberg}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Weisberg},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{edition}{Reprint}
+    \field{isbn}{978-0190265120}
+    \field{title}{Simulation and Similarity: Using Models to Understand the
+  World}
+    \field{year}{2012}
+  \endentry
+
+  \entry{rfc6550}{report}{}
+    \name{author}{10}{}{%
+      {{hash=WT}{%
+         family={Winter},
+         familyi={W\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Thubert},
+         familyi={T\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Brandt},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hui},
+         familyi={H\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kelsey},
+         familyi={K\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Levis},
+         familyi={L\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PK}{%
+         family={Pister},
+         familyi={P\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Struik},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Vasseur},
+         familyi={V\bibinitperiod},
+         given={JP.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Alexander},
+         familyi={A\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {RFC Editor}%
+    }
+    \strng{namehash}{WT+1}
+    \strng{fullhash}{WTTPBAHJKRLPPKSRVJAR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{howpublished}{Internet Requests for Comments}
+    \field{number}{6550}
+    \field{title}{RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks}
+    \verb{url}
+    \verb https://tools.ietf.org/html/rfc6550
+    \endverb
+    \list{institution}{1}{%
+      {RFC Editor}%
+    }
+    \field{type}{RFC}
+    \field{month}{03}
+    \field{year}{2012}
+  \endentry
+
+  \entry{FogAndCloud}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=YM}{%
+         family={{Yannuzzi}},
+         familyi={Y\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={{Milito}},
+         familyi={M\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={{Serral-Gracià}},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={{Montero}},
+         familyi={M\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={{Nemirovsky}},
+         familyi={N\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{YM+1}
+    \strng{fullhash}{YMMRSRMDNM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{booktitle}{19th International Workshop on Computer Aided Modeling
+  and Design of Communication Links and Networks (CAMAD)}
+    \field{pages}{325\bibrangedash 329}
+    \field{title}{Key ingredients in an IoT recipe: Fog Computing, Cloud
+  computing, and more Fog Computing}
+    \verb{url}
+    \verb https://doi.org/10.1109/CAMAD.2014.7033259
+    \endverb
+    \list{location}{1}{%
+      {Athens, Greece}%
+    }
+    \field{month}{12}
+    \field{year}{2014}
+  \endentry
+
+  \entry{IoTSim}{article}{}
+    \name{author}{6}{}{%
+      {{hash=ZX}{%
+         family={Zeng},
+         familyi={Z\bibinitperiod},
+         given={Xuezhi},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=GSK}{%
+         family={Garg},
+         familyi={G\bibinitperiod},
+         given={Saurabh\bibnamedelima Kumar},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Strazdins},
+         familyi={S\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=JPP}{%
+         family={Jayaraman},
+         familyi={J\bibinitperiod},
+         given={Prem\bibnamedelima Prakash},
+         giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Georgakopoulos},
+         familyi={G\bibinitperiod},
+         given={Dimitrios},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Ranjan},
+         familyi={R\bibinitperiod},
+         given={Rajiv},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZX+1}
+    \strng{fullhash}{ZXGSKSPJPPGDRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{pages}{93\bibrangedash 107}
+    \field{title}{IOTSim: A simulator for analysing IoT applications}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.sysarc.2016.06.008
+    \endverb
+    \field{volume}{72}
+    \field{journaltitle}{Journal of Systems Architecture}
+    \field{month}{01}
+    \field{year}{2017}
+  \endentry
+\enddatalist
+\endinput

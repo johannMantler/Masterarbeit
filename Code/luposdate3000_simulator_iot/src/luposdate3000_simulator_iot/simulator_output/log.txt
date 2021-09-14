@@ -1,0 +1,23 @@
+
+
+================================================
+Simulation has started at 2021-07-25T16:09:57.490
+Initialize..
+Number of devices: 3.0
+Number of sensor devices: 1.0
+Number of database devices: 2.0
+Number of query senders: 0.0
+Number of available links: 2.0
+Initialization is finished after 0.277s
+
+
+> Device(addr 0, name 'A') sends Pck(src 0, dest 1, size 42, payload DIO(rank 1)) at clock 0 with delay 10500001
+> Device(addr 1, name 'B') receives Pck(src 0, dest 1, size 42, payload DIO(rank 1)) at clock 10500001
+> Device(addr 1, name 'B') sends Pck(src 1, dest 0, size 40, payload DAO(isPath true)) at clock 10500001 with delay 10000001
+> Device(addr 1, name 'B') sends Pck(src 1, dest 2, size 42, payload DIO(rank 2)) at clock 10500001 with delay 8842106
+> Device(addr 2, name 'C') receives Pck(src 1, dest 2, size 42, payload DIO(rank 2)) at clock 19342107
+> Device(addr 2, name 'C') sends Pck(src 2, dest 1, size 40, payload DAO(isPath true)) at clock 19342107 with delay 8421054
+> Device(addr 0, name 'A') receives Pck(src 1, dest 0, size 40, payload DAO(isPath true)) at clock 20500002
+> Device(addr 1, name 'B') receives Pck(src 2, dest 1, size 40, payload DAO(isPath true)) at clock 27763161
+> Device(addr 1, name 'B') sends Pck(src 1, dest 0, size 72, payload DAO(isPath true)) at clock 1027763161 with delay 18000001
+> Device(addr 0, name 'A') receives Pck(src 1, dest 0, size 72, payload DAO(isPath true)) at clock 1045763162

@@ -1,0 +1,2 @@
+Devices;Sensors;Databases;QuerySenders;Links;Real Initialization Time;Real Simulation Time;Simulation Time;Sent Packages;Traffic In Kilobytes;SentDatabasePackages;SentSamplePackages;SentDIOPackages;SentDAOPackages;ForwardedPackages;SamplesMade;QueriesMade;
+240.0;0.0;240.0;0.0;549.0;0.23500000000000001;2.207;24.631;2126.0;725.1580000000016;0.0;0.0;859.0;1267.0;0.0;0.0;0.0
