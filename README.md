@@ -1,6 +1,7 @@
 # Masterarbeit
 Simulation Framework for Distributed Database Query Processing in the Semantic Internet of Things
-Januar – Juli 2021
+
+
 The growing computing capacities of small devices in the Internet of Things (IoT)
 have led to the edge computing paradigm. More and more things on the edge of the 
 Internet can not only generate data, but also save and process it. One way of using
@@ -16,3 +17,5 @@ by executing operators (e.g. joins, filters) as early as possible. Both
 contributions are evaluated with the Semantic Web DBMS LUPOSDATE3000 in a modeled example scenario.
 
 Stichworte: 	Kotlin, IoT DBMS, Semantic Web, Simulation, TCP/IP, RPL, Edge Computing
+
+Januar – Juli 2021
