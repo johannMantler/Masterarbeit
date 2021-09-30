@@ -5,7 +5,7 @@ Simulation Framework for Distributed Database Query Processing in the Semantic I
 The growing computing capacities of small devices in the Internet of Things (IoT)
 have led to the edge computing paradigm. More and more things on the edge of the 
 Internet can not only generate data, but also save and process it. One way of using
-this computing capacity are distributed database man-agement systems (DBMS) that are
+this computing capacity are distributed database management systems (DBMS) that are
 adapted to the IoT platform. The DBMS instances run on the edge devices and cooperate
 for query processing. For the development and evaluation of such DBMSs, we present
 a new simulator with which modeled instances of a real existing DBMS can be simulated
